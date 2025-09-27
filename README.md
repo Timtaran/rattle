@@ -80,7 +80,7 @@ repositories {
   // for snapshot builds
   // maven("https://s01.oss.sonatype.org/content/repositories/snapshots/")
 }
-
+ 
 dependencies {
   implementation("io.github.aecsocket", "rapier-MODULE", "VERSION")
 }
